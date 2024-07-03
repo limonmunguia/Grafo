@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGrafo", "WebGrafo\WebGrafo.csproj", "{636754A6-FDFC-4C48-92A4-57848990E535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafo", "Grafo\Grafo.csproj", "{835359A2-E37F-4A37-A3CB-3D617124C53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636754A6-FDFC-4C48-92A4-57848990E535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636754A6-FDFC-4C48-92A4-57848990E535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636754A6-FDFC-4C48-92A4-57848990E535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636754A6-FDFC-4C48-92A4-57848990E535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835359A2-E37F-4A37-A3CB-3D617124C53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835359A2-E37F-4A37-A3CB-3D617124C53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835359A2-E37F-4A37-A3CB-3D617124C53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835359A2-E37F-4A37-A3CB-3D617124C53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3F9235-FE45-4331-9081-0E83FA434B5C}
+	EndGlobalSection
+EndGlobal

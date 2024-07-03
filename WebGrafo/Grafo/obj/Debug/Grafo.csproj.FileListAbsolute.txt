@@ -1,0 +1,8 @@
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\bin\Debug\Grafo.dll
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\bin\Debug\Grafo.pdb
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\obj\Debug\Grafo.csproj.CopyComplete
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\obj\Debug\Grafo.dll
+C:\Users\Jorge\Documents\Apps\WebGrafo\Grafo\obj\Debug\Grafo.pdb
